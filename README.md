@@ -1,1 +1,1 @@
-# DevOps Internship Project - Week 1 - [Main Branch Update]
+# DevOps Internship Project - Week 1 - [MERGED: Main + Feature]
